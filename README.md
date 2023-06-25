@@ -32,7 +32,7 @@ Before using this ETL framework, ensure you have the following prerequisites:
    - Cloud Storage API
    - BigQuery API
 3. Edit the [config](config) files for all the tables to be laoded.
-4. Create a GCS bucket and copy all the folders there [config, data, schema, sql].
+4. Create a GCS bucket and copy all the folders there [config, data, schema, sql]. Also add the same bucket name in all the config files as well as dag files.
 5. Create a staging Bigquery dataset, final BigQuery dataset and tables using the given [create_tables.sql](DDLs) to store the transformed data.
 6. Upload the [DAGs](DAGs) to composer DAGs folder. 
 
