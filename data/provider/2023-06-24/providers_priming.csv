@@ -1,0 +1,103 @@
+provider_id,fname,lname,facility_name,address,city,state,zipcode,specialty_code,start_date
+N3T000A,Scott,Dawson,Utmost Wellness Therapy,319 Pinon,Springfield,Illinois,62701,heart_surgeon,1/7/2016
+N3T100A,Desiree,Edwards,Royal Therapy,1095 Alaska Drive,Chicago,Illinois,60601,family_physician,4/25/2009
+N3T200A,Marshall,Lewis,The TrustyMed,2058 South Mesquite,Indianapolis,Indiana,46201,physical_therapist,6/27/1999
+N3T300A,Greyson,Hall,Clinica,1498 Juniper Lane,Camden,South Carolina,29020,heart_surgeon,9/4/1997
+N3T400A,Beverly,Collins,Medical Zone,446 Canyon,Little Rock,Arkansas,72201,heart_surgeon,7/13/1998
+N3T500A,Eli,Adams,Manchester Medical Group,1577 Cedar Boulevard,Ashland,New Hampshire,3217,orthopedist,3/7/2007
+N3T600A,Clarence,Paters,Community of Hope,2269 Lee,Anchorage,Alaska,99501,physical_therapist,1/9/2016
+N3T700A,Ricardo,Scott,Queens Care Health Center,2552 East Wyoming Drive,Boston,Massachusetts,2101,family_physician,9/14/2017
+N3T800A,Ethan,Phillips,Medixo,2428 East Idaho,Denver,Colorado,80201,physical_therapist,4/14/2013
+N3T900A,Shane,Fleming,Pacific Clinics,1319 Aloha Lane,Milwaukee,Wisconsin,53201,orthopedist,4/7/2017
+N3T1000A,Kayla,Patterson,Trusted Therapy,678 Quail Drive,Bellevue (home of windoze),Washington,98004,family_physician,4/23/2002
+N3T1100A,Harvey,Russell,Merry Medic LifeWatchers,434 West Center Lane,Atlanta,Georgia,30301,orthopedist,9/20/2009
+N3T1200A,Miranda,Cooke,The Healing Clinic,2541 West Wisconsin,Biloxi,Mississippi,39530,orthopedist,2/15/2010
+N3T1300A,Della,Marshall,Elite Wellness Collective,2355 Vermont,Milwaukee,Wisconsin,53201,physical_therapist,1/19/2018
+N3T1400A,Luka,Smythe,First Choice Health,661 Lehua Drive,St. Louis,Missouri,63101,heart_surgeon,5/10/2006
+N3T1400A,Luka,Smythe,First Choice Health,661 Lehua Drive,St. Louis,Missouri,63101,heart_surgeon,5/10/2006
+N3T1500A,Angelique,Matthews,Nutri-Pathic Clinic,1348 North Broadway Boulevard,Orlando,Florida,32801,physical_therapist,4/1/2009
+N3T1600A,Orlando,Davidson,Grace Medical,2760 South Meadow Boulevard,Oxford,North Carolina,27565,family_physician,5/22/2003
+N3T1700A,Peter,Murray,FamFirst,389 Wisconsin,Walhalla,North Dakota,58282,orthopedist,11/13/2018
+N3T1800A,Gloria,Forester,Specialty Healthcare,510 South 1st,Gaylord,Michigan,49734,physical_therapist,2/10/2017
+N3T1900A,Janessa,Ward,Family Wellness Center,1759 North 5th Boulevard,Sacramento,California,94203,orthopedist,9/12/1995
+N3T2000A,Aaron,Robinson,Care in Cleveland,622 Aloha,Beverly Hills,California,90209,orthopedist,8/25/2006
+N3T2100A,Brian,Murray,The Vitality Visit,1142 Shore,Oxford,North Carolina,27565,family_physician,5/10/1997
+N3T2200A,Claude,Reid,Global Health Hospitals,1453 West Columbine Lane,Cleveland,Ohio,44101,family_physician,3/23/2000
+N3T2300A,Ramon,Campbell,Healing Helpers Group,743 West Colorado Drive,Newport,Rhode Island,2840,family_physician,1/18/2013
+N3T2400A,Stella,Gibbs,Treatment Solutions,2795 Washington Street,Dover,Deleware,19901,family_physician,2/12/2011
+N3T2500A,Sophia,Richardson,Vital Heart Medical,2361 West Malulani Boulevard,Baltimore,Maryland,21201,family_physician,8/5/2010
+N3T2600A,Romeo,Scott,Elite Wellness Collective,497 North Connecticut,Bellevue (home of windoze),Washington,98004,heart_surgeon,6/1/2016
+N3T2700A,Wiley,Carter,Fuerza Fitness Center (Fuerza is the Spanish Word For Strength),2952 Wood Street,Duluth,Minnesota,55801,orthopedist,2/22/2018
+N3T2800A,Tyra,Edwards,Wellness Corporate Solutions,720 West Highland,Davenport,Iowa,52801,family_physician,5/20/2001
+N3T2900A,Monique,Matthews,The TrustyMed,1762 South Tennessee,Reno,Nevada,89501,orthopedist,1/3/2008
+N3T3000A,Silvia,Davidson,Trinity Health and Wellness Medical Group,2469 North Hillside Boulevard,Indianapolis,Indiana,46201,family_physician,1/24/2011
+N3T3100A,Harold,Smith,QuikHealth,405 Colorado,Freeport,Maine,4032,orthopedist,7/6/2008
+N3T3200A,Leona,Gardener,VistaVita,1003 Lake Lane,Portland,Oregon,97201,family_physician,1/6/2005
+N3T3300A,Gemma,Jones,Healthy You Clinic,2041 South Lake Street,Aberdeen,South Dakota,57401,family_physician,5/18/2015
+N3T3400A,Alexis,Reid,First Choice Health,2277 Center,Huntsville,Alabama,35801,heart_surgeon,6/24/2014
+N3T3500A,Silvia,Morrison,The Magical Wellness Center,212 Hillside,Hartford,Conneticut,6101,physical_therapist,11/27/2016
+N3T3600A,Molly,Matthews,Alovia Skin Clinic,1106 North Idaho Boulevard,Biloxi,Mississippi,39530,orthopedist,4/13/2006
+N3T3700A,Myra,Roberts,Manchester Medical Group,2214 East Airport,Little Rock,Arkansas,72201,family_physician,7/5/2011
+N3T3800A,Gabriela,Lewis,Silverlining Medical,2184 South Cypress Street,Montpelier,Idaho,83254,orthopedist,2/21/2016
+N3T3900A,Robyn,Phillips,Pacific Clinics,926 East Aspen Boulevard,Davenport,Iowa,52801,family_physician,1/23/2000
+N3T4000A,Laverne,Scott,Healthy You Clinic,1555 Lehua,Santa Fe,New Mexico,87500,orthopedist,9/11/1998
+N3T4100A,Vivian,Summers,CityMed,2937 North Shore Boulevard,Cleveland,Ohio,44101,heart_surgeon,5/14/2014
+N3T4200A,Noel,Richards,Wellbeing Family Practice,2104 East Oregon Lane,Montpelier,Idaho,83254,heart_surgeon,5/8/2012
+N3T4300A,Julian,Powell,Emergency Healthcare,608 East Kahili Street,Atlanta,Georgia,30301,orthopedist,3/16/2012
+N3T4400A,Hector,Davis,Heal And Health Hospitals,1736 South 6th Boulevard,Atlanta,Georgia,30301,orthopedist,2/6/2005
+N3T4500A,Joe,Green,Body Therapy,2029 Church Drive,Huntsville,Alabama,35801,heart_surgeon,6/13/2010
+N3T4600A,Olive,Allen,Indigo Integrative Health Clinic,151 West Hillside Lane,Little Rock,Arkansas,72201,family_physician,5/19/2009
+N3T4700A,Shawn,Turner,Trinity Health and Wellness Medical Group,1572 South Texas Drive,Atlanta,Georgia,30301,physical_therapist,8/14/2013
+N3T4800A,Nathaniel,Simpson,First Found Therapy,2396 3rd,Coldwater,Michigan,49036,orthopedist,7/9/2008
+N3T4900A,Sandra,Parker,Community of Hope,607 Orchard,Miami,Florida,33124,orthopedist,8/24/2007
+N3T5000A,Vicki,Philips,Vital Heart Medical,882 Holly Street,Hazard,Kentucky,41701,heart_surgeon,5/10/2006
+N3T5100A,Neil,King,TeamMed,727 South Redwood Drive,Logan,Utah,84321,family_physician,7/26/2011
+N3T5200A,Lesley,Campbell,Alovia Skin Clinic,1026 South Dogwood Boulevard,New Orleans,Lousiana,70112,heart_surgeon,9/11/1995
+N3T5300A,Vicki,Simpson,QuikHealth,387 North Evergreen,Huntsville,Alabama,35801,physical_therapist,9/1/2007
+N3T5400A,Lucille,Taylor,Healthy Folks,347 West Illinois,Denver,Colorado,80201,heart_surgeon,8/22/2011
+N3T5500A,Nathaniel,Mitchell,Community of Hope,1488 Lakeview,Little Rock,Arkansas,72201,orthopedist,2/23/2018
+N3T5600A,Katrina,Davidson,Rainbow General,1811 California,Coldwater,Michigan,49036,heart_surgeon,2/17/2005
+N3T5700A,Ernest,Fox,Community of Hope,2436 13th,Milwaukee,Wisconsin,53201,orthopedist,5/17/2017
+N3T5800A,Nick,Cook,Miracle Clinic,1905 Palo Verde,Hartford,Conneticut,6101,orthopedist,7/13/2006
+N3T5900A,Molly,White,Go Medicine Care,2828 Utah,Nashville,Tennessee,37201,heart_surgeon,6/8/2017
+N3T6000A,Terry,Ward,Trinity Health and Wellness Medical Group,1692 Quail Street,Portland,Oregon,97201,physical_therapist,1/14/1997
+N3T6100A,Milton,Berry,Pacific Clinics,958 Hampton Drive,Laurel,Montana,59044,heart_surgeon,6/5/2014
+N3T6200A,Nick,Brown,The TrustyMed,1490 Vermont,Little Rock,Arkansas,72201,orthopedist,10/12/1997
+N3T6300A,Riley,Adams,Queens Care Health Center,2912 East Shore,Reno,Nevada,89501,physical_therapist,6/15/1997
+N3T6400A,Orlando,Powell,Grace Medical,1736 Quail Lane,Hastings,Nebraska,68901,orthopedist,3/1/2003
+N3T6500A,Beatrice,Black,Primary Care Family Practice,1237 North Sunset,Bellevue (home of windoze),Washington,98004,physical_therapist,6/22/2000
+N3T6600A,Sophie,Harris,TeamMed,631 West Arizona Drive,Newport,Rhode Island,2840,orthopedist,4/27/2004
+N3T6700A,Valentina,Jackson,VitalSkin,401 Walnut,Washington,District of Columbia,20001,heart_surgeon,7/8/2013
+N3T6800A,Marion,Sanders,Body Regenerate Clinic,1033 West Arizona Street,Austin,Texas,78701,heart_surgeon,8/17/1999
+N3T6900A,Samuel,Gray,Manchester Medical Group,1716 East Kukui,New Orleans,Lousiana,70112,orthopedist,6/4/1995
+N3T7000A,Sandra,Edwards,Multiclinic,1851 Pennsylvania Street,St. Louis,Missouri,63101,orthopedist,2/11/2001
+N3T7100A,Lewis,Lee,The Hope Clinic,447 South Canyon Street,Springfield,Illinois,62701,heart_surgeon,2/2/2018
+N3T7200A,Sandy,Williams,Royal Therapy,576 Airport Boulevard,Portland,Oregon,97201,physical_therapist,2/21/1997
+N3T7300A,Odessa,Hughes,Utah Urgent,2650 West Delaware Boulevard,Boston,Massachusetts,2101,heart_surgeon,6/20/2015
+N3T7400A,Hannah,Cox,The Sunshine Practice,2725 Alabama Boulevard,Chicago,Illinois,60601,orthopedist,3/12/2004
+N3T7500A,Arthur,Barnes,Columbia Doctors,1221 12th Drive,Livingston,New Jersey,7039,orthopedist,2/15/1995
+N3T7600A,Kianna,Rogers,QuikHealth,1864 Apache Lane,Baltimore,Maryland,21201,physical_therapist,11/23/2011
+N3T7700A,ddddddd8
+N3T7800A,Janine,Russell,Accord Medical Group,2635 East Aloha,Hartford,Conneticut,6101,physical_therapist,11/23/2015
+N3T7900A,Hannah,Anderson,Manchester Medical Group,1316 West Airport,Aberdeen,South Dakota,57401,physical_therapist,4/20/2018
+N3T8000A,Sebastian,Ward,Chiropractic Care,165 West 2nd Drive,Hastings,Nebraska,68901,orthopedist,2/16/1996
+N3T8100A,Nathalie,Smythe,Medixo,577 Arizona Drive,Aberdeen,South Dakota,57401,family_physician,4/1/2013
+N3T8200A,Connor,Summers,Primaxa,2270 Orchard,Nashville,Tennessee,37201,physical_therapist,10/4/2014
+N3T8300A,Greyson,Cook,WishyWave Hospital,2425 South Arizona,Tulsa,Oklahoma,74101,family_physician,2/15/2014
+N3T8400A,Kayla,Shaw,QuikHealth,2092 Center Lane,Chicago,Illinois,dgfdfgdfgdfgdfgdfg,heart_surgeon,2/12/2013
+N3T8500A,Neil,Davidson,Location-Based Names,898 Airport,Anchorage,Alaska,99501,family_physician,4/5/2009
+N3T8600A,Angelique,Russell,Handy Health Hospital,2674 Palo Verde Boulevard,Altavista,Virginia,24517,orthopedist,11/25/2007
+N3T8700A,Peter,Miller,Indigo Integrative Health Clinic,2710 Pinon Lane,Camden,South Carolina,29020,heart_surgeon,10/7/2000
+N3T8800A,Rick,Shaw,Patients Choice Medical Clinic,2228 North Airport Street,Pinedale,Wyoming,82941,family_physician,5/10/2014
+N3T8900A,Jessie,Adams,VistaVita,626 7th Drive,Anchorage,Alaska,99501,physical_therapist,9/3/2003
+N3T9000A,Alison,Shaw,Fuerza Fitness Center (Fuerza is the Spanish Word For Strength),2724 South Evergreen,Washington,District of Columbia,20001,physical_therapist,8/18/2011
+N3T9100A,Janine,Wood,Union Family Health Center,190 East Georgia Lane,Tulsa,Oklahoma,74101,heart_surgeon,5/11/2009
+N3T9200A,Beverly,Nicholson,My Wellness Physician,2055 West Juniper Lane,Davenport,Iowa,52801,physical_therapist,8/5/2009
+N3T9300A,Fred,Richardson,Healthy Folks,981 East Pine Boulevard,New Orleans,Lousiana,70112,family_physician,2/2/2005
+N3T9400A,Katelynn,Scott,Share and Care Clinic,380 Wisconsin Boulevard,Aberdeen,South Dakota,57401,physical_therapist,11/2/2012
+N3T9500A,Jorge,Johnson,BellaViso,111 East Dogwood Drive,Gaylord,Michigan,49734,physical_therapist,7/20/2009
+N3T9600A,Danna,Allen,Mediversal,1597 1st,Beverly Hills,California,90209,heart_surgeon,2/9/2000
+N3T9700A,Stephanie,Cox,Primaxa,270 Virginia,Anchorage,Alaska,99501,family_physician,5/22/2008
+N3T9800A,Rosie,Simpson,The Calming Clinic,952 Dogwood Drive,Pensacola,Florida,32501,orthopedist,7/3/2015
+N3T9900A,Harmony,Walker,Utmost Wellness Therapy,694 Colorado Street,Denver,Colorado,80201,family_physician,2/4/2012
+N3T10000A,Rosa,Williams,Vital Heart Medical,2089 East Texas,Livingston,New Jersey,7039,orthopedist,10/24/1997

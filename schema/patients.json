@@ -1,0 +1,13 @@
+[
+    {"name": "patient_id", "type": "STRING", "mode": "REQUIRED"},
+    {"name": "fname", "type": "STRING", "mode": "REQUIRED"},
+    {"name": "lname", "type": "STRING", "mode": "NULLABLE"},
+    {"name": "date_of_birth", "type": "date", "mode": "REQUIRED"},
+    {"name": "address", "type": "STRING", "mode": "REQUIRED"},
+    {"name": "city", "type": "STRING", "mode": "REQUIRED"},
+    {"name": "state", "type": "STRING", "mode": "REQUIRED"},
+    {"name": "zipcode", "type": "STRING", "mode": "REQUIRED"},
+    {"name": "date_of_residence", "type": "DATE", "mode": "REQUIRED"},
+    {"name": "last_modified_date", "type": "DATE", "mode": "REQUIRED"}
+
+]

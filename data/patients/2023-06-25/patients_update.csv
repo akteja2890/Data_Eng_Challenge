@@ -1,0 +1,15 @@
+patient_id,fname,lname,date_of_birth,address,city,state,zipcode,date_of_residence,last_modified_date
+102000U,Eunice,Forester,6-26-1940,2743 North Smith,Baltimore,Maryland,21201,10-24-2011,2-9-2020
+103000U,Connor,Kelly,3-4-1989,578 South River Drive,Wichita,Kansas,67201,8-6-2009,2-9-2020
+104000U,Gabriela,Lee,11-12-1942,1681 County Line,Anchorage,Alaska,99501,5-26-2018,2-9-2020
+105000U,Walter,McDonald,10-6-1957,2612 East Palo Verde,Atlanta,Georgia,30301,8-12-2001,2-9-2020
+106000U,Jorge,Robinson,10-3-1978,2650 East Dogwood,Beverly Hills,California,90209,10-13-2005,2-9-2020
+107000U,Francesca,Berry,6-17-1962,151 North Vermont Drive,New Orleans,Lousiana,70112,9-15-2004,2-9-2020
+108000U,Nicole,Baker,7-19-1952,955 Center,Aberdeen,South Dakota,57401,9-22-2000,2-9-2020
+109000U,Claude,Jackson,2-19-1954,372 North 9th Lane,Walhalla,North Dakota,58282,9-1-2011,2-9-2020
+110000U,Vivian,Paters,6-13-1986,2425 East Juniper Drive,Atlanta,Georgia,30301,4-10-2005,2-9-2020
+111000U,Alison,Webster,7-8-1964,1634 North 12th,Coldwater,Michigan,49036,1-4-2012,2-9-2020
+112000U,Hope,Bell,5-1-1954,1177 North Main Street,Santa Fe,New Mexico,87500,2-1-2016,2-9-2020
+18000U,Douglas,Gardener,6-23-1959,1891 East Lee Boulevard,Pensacola,Florida,32501,5-10-2004,2-9-2020
+41000U,Debra,Clark,1-25-1947,33 Pond Road,Hartford,Conneticut,06101,2-8-2020,2-9-2020
+85000U,Olive,Turner,11-13-1957,771 Delaware Street,Baltimore,Maryland,21201,9-1-2000,2-9-2020

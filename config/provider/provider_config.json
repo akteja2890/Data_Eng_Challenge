@@ -1,0 +1,15 @@
+{
+    "provider_gcs_bucket":"poc-flexion",
+    "provider_data_gcs_path":"data/provider",
+    "provider_schema_gcs_path_stg":"schema/provider_stg.json",
+    "provider_schema_gcs_path":"schema/provider.json",
+    "rerun_flag":"Y",
+    "rerun_dt":"2023-06-24",
+    "provider_bq_dataset_stg":"flexion_stg",
+    "provider_bq_table_stg":"provider",
+    "provider_bq_dataset":"flexion_prd",
+    "provider_bq_table":"provider",
+    "insert_provider_query_path":"sql/provider/insert_stg_to_main.sql",
+    "merge_provider_query_path":"sql/provider/merge_stg_to_main.sql"
+
+}

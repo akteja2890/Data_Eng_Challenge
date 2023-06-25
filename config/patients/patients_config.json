@@ -1,0 +1,15 @@
+{
+    "patients_gcs_bucket":"poc-flexion",
+    "patients_data_gcs_path":"data/patients",
+    "patients_schema_gcs_path_stg":"schema/patients_stg.json",
+    "patients_schema_gcs_path":"schema/patients.json",
+    "rerun_flag":"Y",
+    "rerun_dt":"2023-06-24",
+    "patients_bq_dataset_stg":"flexion_stg",
+    "patients_bq_table_stg":"patients",
+    "patients_bq_dataset":"flexion_prd",
+    "patients_bq_table":"patients",
+    "insert_patients_query_path":"sql/patients/insert_stg_to_main.sql",
+    "merge_patients_query_path":"sql/patients/merge_stg_to_main.sql"
+
+}

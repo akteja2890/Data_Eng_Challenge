@@ -1,0 +1,15 @@
+{
+    "claims_gcs_bucket":"poc-flexion",
+    "claims_data_gcs_path":"data/claims",
+    "claims_schema_gcs_path_stg":"schema/claims_stg.json",
+    "claims_schema_gcs_path":"schema/claims.json",
+    "rerun_flag":"Y",
+    "rerun_dt":"2023-06-24",
+    "claims_bq_dataset_stg":"flexion_stg",
+    "claims_bq_table_stg":"claims",
+    "claims_bq_dataset":"flexion_prd",
+    "claims_bq_table":"claims",
+    "insert_claim_query_path":"sql/claim/insert_stg_to_main.sql",
+    "merge_claim_query_path":"sql/claim/merge_stg_to_main.sql"
+
+}

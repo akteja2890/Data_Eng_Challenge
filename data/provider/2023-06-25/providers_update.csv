@@ -1,0 +1,15 @@
+provider_id,fname,lname,facility_name,address,city,state,zipcode,specialty_code,start_date
+N3T10100A,Miles,King,Bodyfit Clinic,2027 Shore Street,Huntsville,Alabama,35801,orthopedist,6/3/2002
+N3T10200A,Lauren,Shaw,Renew Therapy,1498 Broadway Lane,Laurel,Montana,59044,family_physician,2/14/1996
+N3T10300A,Seth,McDonald,Utah Urgent,2049 Smith Drive,Pinedale,Wyoming,82941,physical_therapist,10/20/1999
+N3T10400A,Connor,Holmes,MedStar Hospital Center,2294 East Willow Drive,Laurel,Montana,59044,family_physician,9/16/2006
+N3T10500A,Harold,Lewis,Healthy Highlights Center,2017 East Utah Street,Duluth,Minnesota,55801,heart_surgeon,5/26/2003
+N3T10600A,Troy,Lewis,TeamMed,695 13th,Bellevue (home of windoze),Washington,98004,orthopedist,6/20/2017
+N3T10700A,Kathie,Shaw,First Choice Health,1275 Wisconsin Lane,Atlanta,Georgia,30301,orthopedist,9/27/2010
+N3T10800A,Antonio,Bell,QuikHealth,966 East 9th Lane,Hazard,Kentucky,41701,family_physician,5/4/2017
+N3T10900A,Angela,Stevens,Miracle Clinic,249 South Highland,Coldwater,Michigan,49036,physical_therapist,5/12/2017
+N3T11000A,Monique,Wilson,FamFirst,996 North Broadway Lane,Nashville,Tennessee,37201,heart_surgeon,7/18/2002
+N3T11100A,Terry,Evans,Wellness Bliss Group,2180 East Holly Drive,Laurel,Montana,59044,orthopedist,1/10/2004
+N3T7000A,Sandra,Edwards,SuperClinic,443 Left Road,Chicago,Illinois,60601,orthopedist,2/1/2019
+N3T1900A,Janessa,Wardman,Family Wellness Center,1759 North 5th Boulevard,Sacramento,California,94203,orthopedist,9/12/1995
+N3T2200A,Claude,Reid,Global Health Hospitals,1453 West Columbine Lane,Cleveland,Ohio,44101,physical_therapist,3/23/2000
