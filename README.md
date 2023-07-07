@@ -1,16 +1,16 @@
 # Problem
 
-To build ETL framework for New Billing System based on DataEngineerChallengeV2.1.pdf
+To build ETL framework for New Billing System based on Data EngineerChallengeV2.1.pdf
 
 # Solution
 
-This congiguration drive ETL framework is designed to extract data from CSV files stored in Google Cloud Storage (GCS) and load it into BigQuery using Google Cloud Composer.
+This configuration drive ETL framework is designed to extract data from CSV files stored in Google Cloud Storage (GCS) and load it into BigQuery using Google Cloud Composer.
 
 ## Overview
 
 The ETL framework follows the following steps:
 
-1. CSV files are uploaded to a specified GCS bucket with the load date as folder.
+1. CSV files are uploaded to a specified GCS bucket with the load date as a folder.
 2. Google Cloud Composer orchestrates the ETL process.
 3. A Composer DAG (Directed Acyclic Graph) is triggered based on the [config](config) file provided in the GCS bucket.
 4. A DAG task using <a href="https://airflow.apache.org/docs/apache-airflow-providers-google/stable/_api/airflow/providers/google/cloud/transfers/gcs_to_bigquery/index.html">GCSToBigQueryOperator</a> reads the CSV files from GCS and saves the same in GCS Bigquery staging dataset.
@@ -44,28 +44,28 @@ To use the ETL framework, follow these steps:
 1. Batch Insert: To perform a fresh data insertion, ensure that the data is available in the following folder structure: /data/<tablename>/<date>/*.csv.
 2. If you intend to load data for a specific day, specify the desired date in the configuration file using the rerun_dt parameter. Set the rerun_flag to 'Y'. If the rerun_flag is set 
    to'N', the rerun_dt will be ignored, and the current date will be used to load the data.
-3. After loading the table with fresh data, to perform an update or merge operation on the final table, ensure that either the data is stored in the current date folder or include the 
+3. After loading the table with fresh data, to perform an update or merge operation on the final table, ensure that either the data is stored in the current date folder or includes the 
    relevant date in the configuration file.
 4. Trigger the required DAG (Directed Acyclic Graph) based on your needs. The available DAGs are:
    * flexion_provider_etl_dag
    * flexion_patient_etl_dag
    * flexion_claim_etl_dag
-5. Data Sceientists can the query the data on clean Bigquery tables.
+5. Data Scientists can query the data on clean Bigquery tables.
 
 ## Troubleshooting
 
 Points to note regarding the data:
 
 1. "Billed" column is not numeric in claims in the data as required in the DataEngineerChallenge document.
-2. Patient data has duplicate patient id "77000U", had to remove both the rows as rest of the columns were different. 
-3. Provider data has duplicate provider_id "N3T1400A", removed one row as both were same based on all the columns.
+2. Patient data has duplicate patient id "77000U", had to remove both the rows as the rest of the columns were different. 
+3. Provider data has duplicate provider_id "N3T1400A", removed one row as both were the same based on all the columns.
 
 
 ## Future Enhancements:
 
 1. Use Terraform to deploy the framework. Tables can also be created using Terraform.
-2. Create audit table for all the jobs and table laods.
-3. Add info regarding filtered data based in a seperate "reject" table.
-4. The data contains PII and PHI data, it is always advisale to mask PII/PHI columns or control the access.
-5. Have a functionality to verify the columns before laoding in the final table.
-6. CSV does not store datatypes, it can contain alot of data anomalies. Would suggest to use some other datatype like parquet or avro.
+2. Create an audit table for all the jobs and table loads.
+3. Add info regarding filtered data based on a separate "reject" table.
+4. The data contains PII and PHI data, it is always advisable to mask PII/PHI columns or control the access.
+5. Have a functionality to verify the columns before loading in the final table.
+6. CSV does not store datatypes, it can contain a lot of data anomalies. Would suggest using some other datatype like parquet or avro.
